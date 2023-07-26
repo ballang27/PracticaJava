@@ -4,7 +4,7 @@ ejercicios con java
 Flujo de control
 
 Parte 1: Calculadora de comisiones
-Usando IntelliJ, escriba una aplicación Java que tome la entrada numérica de un usuario
+escriba una aplicación Java que tome la entrada numérica de un usuario
 La aplicación debe calcular la comisión en función de este gráfico utilizado por la tienda minorista.
 Rango de ventas Comisión
 por encima de 10000$ 30%
